@@ -1,0 +1,9 @@
+# Ignore Visual Studio folder
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.vcxproj.user
+*.db
+*.log
