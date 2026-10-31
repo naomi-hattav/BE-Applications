@@ -1,4 +1,4 @@
-namespace UsersApplication
+namespace TipaltiTest
 {
     public class WeatherForecast
     {
